@@ -1,172 +1,102 @@
 ---
-# Display name
-title: Alex Johnson
+title: "Israel Gomez Ahumada"
 
-# Name pronunciation (optional)
-name_pronunciation: ''
-
-# Full name (for SEO)
-first_name: Alex
-last_name: Johnson
-
-# Pronouns (optional)
+first_name: Israel
+last_name: Gomez
 pronouns: he/him
+role: Estudiante
 
-# Status emoji
-status:
-  icon: 🚀
+# Frase corta debajo del nombre
+bio: "Estudiante de Ingeniería en Software en UABC, enfocado en programación, desarrollo web y paradigmas de programación."
 
-# Is this the primary user of the site?
+# ¿Es el usuario principal del sitio?
 superuser: true
-
-# Highlight the author in author lists? (true/false)
 highlight_name: true
 
-# Role/position/tagline
-role: Senior AI Research Scientist
-
-# Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
-
-# Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+# Enlaces e iconos de redes / contacto
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+    url: "mailto:israel.ahumda@uabc.edu.mx"
+    label: E-mail
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: "https://github.com/issgg"
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: "https://www.linkedin.com/in/israel-gomez-447479397/"
+  - icon: brands/instagram
+    url: "https://www.instagram.com/25hxb.is/"
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: "https://scholar.google.com/"
+  - icon: globe-alt
+    url: "https://github.com/issgg/Portafolio_paradigmas"
+
+organizations:
+  - name: UABC
+    url: "https://uabc.mx/"
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Desarrollo web
+  - Inteligencia artificial
+  - Videojuegos y gráficos
+  - Paradigmas de programación
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: Ingeniería en Software
+    institution: UABC
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_start: 2023-08-01
+    date_end: ""
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
+      Estudiante de Ingeniería en Software en UABC. Enfoque en programación en C, Python, Haskell y desarrollo de portafolios web con Hugo.
+  - area: Software and Emerging Technologies
+    institution: Carrera
     icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+    date_start: 2023-08-01
+    date_end: ""
     summary: |
-      GPA: 4.0/4.0
-
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
+      Formación en paradigmas de programación, diseño de software y tecnologías emergentes.
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
-    icon: ''
-    date_start: 2020-01-01
-    date_end: ''
-    summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
-    icon: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+  - position: Programador en formación
+    company_name: Proyectos académicos UABC
+    company_url: "https://uabc.mx/"
+    icon: ""
+    date_start: 2023-08-01
+    date_end: ""
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Desarrollo de prácticas y proyectos en C, Python, Haskell y sitios web estáticos con Hugo y Hugo Blox.
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Habilidades técnicas
     items:
-      - name: Python & PyTorch
-        description: ''
-        percent: 95
-        icon: code-bracket
-      - name: Machine Learning
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
-        percent: 85
-        icon: cloud
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking in the Rockies
-        description: ''
+      - name: C y Python
+        description: "Programación de sistemas y scripts."
         percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
-        description: ''
-        percent: 90
+        icon: code-bracket
+      - name: Desarrollo web
+        description: "HTML, CSS, Hugo y Tailwind."
+        percent: 75
+        icon: device-phone-mobile
+      - name: Haskell básico
+        description: "Aplicaciones funcionales simples."
+        percent: 60
         icon: cpu-chip
-      - name: Sci-Fi Reading
-        description: ''
+  - name: Hobbies
+    color: "#eeac02"
+    color_border: "#f0bf23"
+    items:
+      - name: Música y videojuegos
+        percent: 80
+        icon: musical-note
+      - name: Fotografía
+        percent: 60
+        icon: camera
+      - name: Fitness
         percent: 70
-        icon: book-open
+        icon: heart
 
 languages:
-  - name: English
+  - name: Español
     percent: 100
-  - name: Spanish
-    percent: 50
-
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
-    summary: |
-      Recognized for contributions to scaling laws in deep learning.
+  - name: Inglés
+    percent: 70
 ---
-
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.

@@ -1,0 +1,14 @@
+baseURL = 'https://example.org/'
+languageCode = 'en'
+title = 'Mi portafolio de practicas'
+theme = "wowchemy"
+[menu]
+  [[menu.main]]
+    name = "Inicio"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Prácticas"
+    url = "/practica2/"
+    weight = 2
