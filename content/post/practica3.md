@@ -18,42 +18,6 @@ featured_image: "img/practica3.png"
 - [Descargar kb2.pl](/prolog/kb2.pl)
 - [Descargar kb3.pl](/prolog/kb3.pl)
 
-## Código de family.pl
-
-% pega aquí el contenido de family.pl
-
-text
-
-## Código de family_ext.pl
-
-% pega aquí el contenido de family_ext.pl
-
-text
-
-## Código de family_rec.pl
-
-% pega aquí el contenido de family_rec.pl
-
-text
-
-## Código de kb1.pl
-
-% pega aquí el contenido de kb1.pl
-
-text
-
-## Código de kb2.pl
-
-% pega aquí el contenido de kb2.pl
-
-text
-
-## Código de kb3.pl
-
-% pega aquí el contenido de kb3.pl
-
-text
-
 ## Introducción
 
 Esta práctica describe el proceso de instalación y puesta en marcha del entorno Haskell usando la herramienta GHCup en Windows, así como el desarrollo y ejecución de una aplicación tipo TODO con Stack y configuración personalizada.
