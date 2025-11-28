@@ -19,7 +19,7 @@ featured_image: "img/practica3.png"
 - [Descargar kb3.pl](/prolog/kb3.pl)
 
 ## Introducción
-
+ 
 Esta práctica describe el proceso de instalación y puesta en marcha del entorno Haskell usando la herramienta GHCup en Windows, así como el desarrollo y ejecución de una aplicación tipo TODO con Stack y configuración personalizada.
 
 ## Instalación del entorno Haskell
@@ -45,7 +45,7 @@ Esta práctica describe el proceso de instalación y puesta en marcha del entorn
 stack new todo
 
 text
-2. Explorar los archivos principales:
+2. Explorar los archivos principales: 
 - `app/Main.hs`: lógica y control principal.
 - `src/Lib.hs`: funcionalidades internas.
 - `package.yaml`: dependencias y configuración.
